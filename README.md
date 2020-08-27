@@ -37,6 +37,6 @@ Extracting only the measurements on the mean and standard deviation for each mea
 2.3) Making nessesary subset from setAllInOne
 Using descriptive activity names to name the activities in the data set
 Appropriately labeling the data set with descriptive variable names
-Creating a second, independent tidy data set with the average of each variable for each activity and each subject
-5.1) Making second tidy data set
-5.2) Writing second tidy data set in txt file
+Creating the final, independent tidy data set with the average of each variable for each activity and each subject
+5.1) Making final tidy data set
+5.2) Writing final tidy data set in txt file
